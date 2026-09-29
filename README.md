@@ -114,9 +114,9 @@ Integral University, Lucknow
 
 ## 🤝 Connect With Me
 
-- 📧 Email: parvezaalam22098@gmail.com
-- 💼 LinkedIn: Add your LinkedIn profile
-- 💻 LeetCode: Add your LeetCode profile
+- 📧 Email: [parvezaalam22098@gmail.com](mailto:parvezaalam22098@gmail.com)
+- 💼 LinkedIn: [Parvej Alam](https://www.linkedin.com/in/parvej-alam-340a47252/)
+- 💻 LeetCode: [Parvej_alam321](https://leetcode.com/u/Parvej_alam321/)
 
 ---
 
